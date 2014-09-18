@@ -1,4 +1,4 @@
-geektool
+<a href="http://projects.tynsoe.org/en/">geektool</a>
 ========
 
-some geektool scripts
+my geektool scripts
